@@ -1,10 +1,8 @@
 # 2048ish
 
-
-<img width="596" alt="Screenshot 2024-09-02 at 11 37 10 PM" src="https://github.com/user-attachments/assets/f86ba75e-7ae6-4b32-8da4-9e79736f7f42">
+<img width="596" alt="Screenshot 2024-09-02 at 11 42 02 PM" src="https://github.com/user-attachments/assets/d06b43ed-cbfb-4ee5-a206-93888323277a">
 
 <img width="596" alt="Screenshot 2024-09-02 at 11 36 36 PM" src="https://github.com/user-attachments/assets/dac5f17b-4816-4ea7-a9c9-e5f950006354">
-
 
 ## Cerința 1
 
